@@ -1,13 +1,13 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { AdminComponent } from './admin.component';
+import { SharedComponent } from './shared.component';
 
 
 
 @NgModule({
-  declarations: [AdminComponent],
+  declarations: [SharedComponent],
   imports: [
     CommonModule
   ]
 })
-export class AdminModule { }
+export class SharedModule { }

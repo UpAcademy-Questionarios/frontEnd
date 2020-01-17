@@ -1,7 +1,5 @@
-import { NgModule, Component } from '@angular/core';
+import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
-import { AdminModule } from './forms/admin/admin.module';
-import { FormsComponent } from './forms/forms.component';
 
 
 const routes: Routes = [ {
